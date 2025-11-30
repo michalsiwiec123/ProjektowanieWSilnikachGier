@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\Mage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|C:\\Users\\micha\\Mage\\assets\\script\\blastwave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\blastwave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|C:\\Users\\micha\\Mage\\assets\\script\\lightningbolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightningbolt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|C:\\Users\\micha\\Mage\\assets\\script\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|c:\\users\\micha\\mage\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|c:\\users\\micha\\mage\\assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|C:\\Users\\micha\\Mage\\assets\\script\\spelldamageinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spelldamageinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|C:\\Users\\micha\\Mage\\assets\\script\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|C:\\Users\\micha\\Mage\\assets\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|C:\\Users\\micha\\Mage\\assets\\script\\spellcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spellcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|C:\\Users\\micha\\Mage\\assets\\script\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|C:\\Users\\micha\\Mage\\assets\\script\\spellso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spellso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|C:\\Users\\micha\\Mage\\assets\\script\\playeraiming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playeraiming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAA8602-16B2-C225-3719-B954691D4480}|Assembly-CSharp-Editor.csproj|C:\\Users\\micha\\Mage\\assets\\editor\\mageutilitywindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAA8602-16B2-C225-3719-B954691D4480}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\mageutilitywindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|C:\\Users\\micha\\Mage\\assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|C:\\Users\\micha\\Mage\\assets\\script\\playerstatsso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D71914-7F4B-40B3-5239-C3248E0A9CF9}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerstatsso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T08:10:49.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Playerhealth.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Script\\Playerhealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Playerhealth.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Script\\Playerhealth.cs",
+              "RelativeToolTip": "Assets\\Script\\Playerhealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:52:55.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Script\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Health.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Script\\Health.cs",
+              "RelativeToolTip": "Assets\\Script\\Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:45:33.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SpellDamageInit.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Script\\SpellDamageInit.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SpellDamageInit.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Script\\SpellDamageInit.cs",
+              "RelativeToolTip": "Assets\\Script\\SpellDamageInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:19:46.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LightningBolt.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Script\\LightningBolt.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LightningBolt.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Script\\LightningBolt.cs",
+              "RelativeToolTip": "Assets\\Script\\LightningBolt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwv0sAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:19:11.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlastWave.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Script\\BlastWave.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BlastWave.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Script\\BlastWave.cs",
+              "RelativeToolTip": "Assets\\Script\\BlastWave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T20:16:51.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Script\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Script\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T19:35:04.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Script\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Script\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:41:52.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Script\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Projectile.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Script\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Script\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:33:34.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SpellSo.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Script\\SpellSo.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SpellSo.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Script\\SpellSo.cs",
+              "RelativeToolTip": "Assets\\Script\\SpellSo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:30:50.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpellCaster.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Script\\SpellCaster.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SpellCaster.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Script\\SpellCaster.cs",
+              "RelativeToolTip": "Assets\\Script\\SpellCaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:30:47.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerAiming.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Script\\PlayerAiming.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerAiming.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Script\\PlayerAiming.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerAiming.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T05:28:23.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MageUtilityWindow.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Editor\\MageUtilityWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\MageUtilityWindow.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Editor\\MageUtilityWindow.cs",
+              "RelativeToolTip": "Assets\\Editor\\MageUtilityWindow.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:09:06.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerStatsSO.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Script\\PlayerStatsSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerStatsSO.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Script\\PlayerStatsSO.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerStatsSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T11:01:35.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Mage\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\micha\\Mage\\Assets\\Script\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:52:26.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

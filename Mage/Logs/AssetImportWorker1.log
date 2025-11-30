@@ -1,0 +1,386 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.0/staging' branch; Version is '6000.0.62f1 (f99f05b3e950) revision 16359173'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'en' Physical Memory: 16225 MB
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-micha" at "2025-11-29T13:36:19.3269383Z"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+Date: 2025-11-29T13:36:19Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.62f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/micha/Mage
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+62357
+-licensingIpc
+LicenseClient-micha
+-job-worker-count
+3
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/micha/Mage
+C:/Users/micha/Mage
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [26316]  Target information:
+
+Player connection [26316]  * "[IP] 192.168.0.206 [Port] 0 [Flags] 2 [Guid] 895890273 [EditorId] 895890273 [Version] 1048832 [Id] WindowsEditor(7,Siwiec) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [26316]  * "[IP] 25.65.82.156 [Port] 0 [Flags] 2 [Guid] 895890273 [EditorId] 895890273 [Version] 1048832 [Id] WindowsEditor(7,Siwiec) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [26316] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [26316] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 22908, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.3+a4e98f1
+  Session Id:              384ea85d2e594232ade0de85718b9db5
+  Correlation Id:          bab9d01c0e27ebce049a0ae8c7d212bc
+  External correlation Id: 6700926885062138500
+  Machine Id:              nomrnpC+F+G5PofQjD9FhvaTrvA=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-micha" (connect: 0.00s, validation: 0.00s, handshake: 0.05s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-micha-notifications" at "2025-11-29T13:36:19.3742936Z"
+[Licensing::Module] Licensing Background thread has ended after 0.05s
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 1.24 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.62f1 (f99f05b3e950)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.62f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/micha/Mage/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6600 (ID=0x73ff)
+    Vendor:   ATI
+    VRAM:     8147 MB
+    Driver:   32.0.21025.10016
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.62f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.62f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.62f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56960
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.62f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002722 seconds.
+- Loaded All Assemblies, in  0.404 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.379 seconds
+Domain Reload Profiling: 781ms
+	BeginReloadAssembly (132ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (51ms)
+	LoadAllAssembliesAndSetupDomain (167ms)
+		LoadAssemblies (128ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (163ms)
+			TypeCache.Refresh (162ms)
+				TypeCache.ScanAssembly (149ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (379ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (338ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (83ms)
+			ProcessInitializeOnLoadAttributes (175ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: F4-5Q35-2WA8-79AX-JVD4-XXXX
+  Product: Unity Personal
+  Type: ULF
+  Expiration: Unlimited
+[Licensing::Module] License group:
+  Id: 7972470509743-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+- Loaded All Assemblies, in  0.585 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.496 seconds
+Domain Reload Profiling: 1079ms
+	BeginReloadAssembly (166ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (28ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (337ms)
+		LoadAssemblies (268ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (158ms)
+			TypeCache.Refresh (128ms)
+				TypeCache.ScanAssembly (118ms)
+			BuildScriptInfoCaches (22ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (496ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (398ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (86ms)
+			ProcessInitializeOnLoadAttributes (279ms)
+			ProcessInitializeOnLoadMethodAttributes (23ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3446 unused Assets / (1.2 MB). Loaded Objects now: 3953.
+Memory consumption went from 82.2 MB to 81.0 MB.
+Total: 4.469600 ms (FindLiveObjects: 0.251300 ms CreateObjectMapping: 0.220500 ms MarkObjects: 3.206100 ms  DeleteObjects: 0.790400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 501977.950583 seconds.
+  path: Assets/Script/SpellCaster.cs
+  artifactKey: Guid(617ac58a311d735488885e653999d1d7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Script/SpellCaster.cs using Guid(617ac58a311d735488885e653999d1d7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: '77c1bd4a1db85252ca3420f74f7c696c') in 0.1093497 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/PolyOne/Rocks Stylized/Prefabs/SM_Rocks_01.prefab
+  artifactKey: Guid(0b7c39db641be5044ab85ba9f56a629a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized/Prefabs/SM_Rocks_01.prefab using Guid(0b7c39db641be5044ab85ba9f56a629a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: '0265b6dccfad6c2016790c551cc9ed7a') in 0.0412215 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/PolyOne/Rocks Stylized/Materials/Rocks Stylized_M.mat
+  artifactKey: Guid(76a5c01805e5cb24cbc1bb6535f6fec7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized/Materials/Rocks Stylized_M.mat using Guid(76a5c01805e5cb24cbc1bb6535f6fec7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: '34844c997d81e2d8226efa4cf3d39da1') in 0.0203259 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Editor/MageUtilityWindow.cs
+  artifactKey: Guid(390d88b0ac4a03f4e9ea912dc23b1c43) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Editor/MageUtilityWindow.cs using Guid(390d88b0ac4a03f4e9ea912dc23b1c43) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: 'c58a97f92008181b251a376e5a5db698') in 0.0146567 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/PolyOne/Rocks Stylized/Model/SM_Rocks_07.fbx
+  artifactKey: Guid(2677d9e54387c1b4d800836555a6c300) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized/Model/SM_Rocks_07.fbx using Guid(2677d9e54387c1b4d800836555a6c300) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: '7ae824ef6f6467012ec0516e4c56d446') in 0.0497056 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/PolyOne/Rocks Stylized/Prefabs/SM_Rocks_10.prefab
+  artifactKey: Guid(f4bf1f00267b19b4a8174c9b9a311b21) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized/Prefabs/SM_Rocks_10.prefab using Guid(f4bf1f00267b19b4a8174c9b9a311b21) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: '662e2a3b37852fee6600982cf073a8aa') in 0.0169296 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/PolyOne/Rocks Stylized/Model/SM_Rocks_02.fbx
+  artifactKey: Guid(9813fad1fa6eee1409adfe66ffff8a11) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized/Model/SM_Rocks_02.fbx using Guid(9813fad1fa6eee1409adfe66ffff8a11) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: '6bcb939f6569a8527ae3cfe740f76c33') in 0.0203125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/PolyOne/Rocks Stylized/Prefabs/SM_Rocks_07.prefab
+  artifactKey: Guid(6b03fd5ce97ca2449b3b9a92cfce1ec5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized/Prefabs/SM_Rocks_07.prefab using Guid(6b03fd5ce97ca2449b3b9a92cfce1ec5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: '0c50148be30ed9bc39a7e5dab24d1224') in 0.0185028 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Script/Fireball.asset
+  artifactKey: Guid(3a9da017910ae4c409a55a5234f14291) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Script/Fireball.asset using Guid(3a9da017910ae4c409a55a5234f14291) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: 'd868cd77a6b51b2295b4ca47f7d21918') in 0.0337556 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/PolyOne/Rocks Stylized/Model/SM_Rocks_08.fbx
+  artifactKey: Guid(72265316621dece4681e00919261da6e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized/Model/SM_Rocks_08.fbx using Guid(72265316621dece4681e00919261da6e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: 'd38b4e8c1276c8b2a2b153768f1d3131') in 0.021065 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Script/LightningBolt.asset
+  artifactKey: Guid(ec0c9aaa949b6e14b89b626ca8d2b93b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Script/LightningBolt.asset using Guid(ec0c9aaa949b6e14b89b626ca8d2b93b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: '52153f29e84641cf21bf226040306884') in 0.0141723 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/PolyOne/Rocks Stylized/Model/SM_Rocks_06.fbx
+  artifactKey: Guid(b9345a3ca075e5f40a66e72cf7a85ae9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized/Model/SM_Rocks_06.fbx using Guid(b9345a3ca075e5f40a66e72cf7a85ae9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: 'fa82ece6dd15301cae34d3b5f1942a3b') in 0.0199459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/PolyOne/Rocks Stylized/Model/SM_Rocks_11.fbx
+  artifactKey: Guid(79f6fa4e7402ab3409139a02eaf6ff7e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized/Model/SM_Rocks_11.fbx using Guid(79f6fa4e7402ab3409139a02eaf6ff7e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: 'd2e301521591638e32f4cf4e17a448d6') in 0.0245776 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/PolyOne/Rocks Stylized/Prefabs/SM_Rocks_03.prefab
+  artifactKey: Guid(c65625e040ac42e46ba4222b69c41558) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized/Prefabs/SM_Rocks_03.prefab using Guid(c65625e040ac42e46ba4222b69c41558) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: 'bd76ce61bed1ddb0d32717c5fb88a221') in 0.0177443 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/PolyOne/Rocks Stylized/Prefabs
+  artifactKey: Guid(47531b39e1a4b2e4d98a334aff56fc91) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized/Prefabs using Guid(47531b39e1a4b2e4d98a334aff56fc91) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: '6ab5de49939412fa8769f03f4e3a6e16') in 0.0134976 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/PolyOne/Rocks Stylized/Model/SM_Rocks_03.fbx
+  artifactKey: Guid(0e7903d1f997cc645bad3674ffab5d1b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized/Model/SM_Rocks_03.fbx using Guid(0e7903d1f997cc645bad3674ffab5d1b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: 'e5332ab0bd7902a4eb29584e20fd5f06') in 0.0207487 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/PolyOne/Rocks Stylized/Prefabs/SM_Rocks_11.prefab
+  artifactKey: Guid(9ec55189fab312141825d31ad5584d45) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized/Prefabs/SM_Rocks_11.prefab using Guid(9ec55189fab312141825d31ad5584d45) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: '0b4a153258f8e12131fb2097ac3b98ed') in 0.0168117 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Script/BlastWave.asset
+  artifactKey: Guid(e63b519c494f3f345aac2ebf5afda181) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Script/BlastWave.asset using Guid(e63b519c494f3f345aac2ebf5afda181) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: 'cd785a142b8706153041c2d7d29c1092') in 0.0165314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/PolyOne/Rocks Stylized/Model/SM_Rocks_09.fbx
+  artifactKey: Guid(cbf3b0bad77b9904882fc1982d9926cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized/Model/SM_Rocks_09.fbx using Guid(cbf3b0bad77b9904882fc1982d9926cc) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: '49b8ec5c1fe8c1324edd1e35330bf4f9') in 0.0218293 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/External
+  artifactKey: Guid(dfc0cf263a6935e4bbb07109f0e08725) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/External using Guid(dfc0cf263a6935e4bbb07109f0e08725) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: '3e616ef781cc73d9a7d20ffbfd3be241') in 0.0139873 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/PolyOne/Rocks Stylized
+  artifactKey: Guid(2ec3d80d6b28fc14c970c1db9958377e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/PolyOne/Rocks Stylized using Guid(2ec3d80d6b28fc14c970c1db9958377e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) (ScriptedImporter) -> (artifact id: 'd064a90836ebc85d537c2c4c7a95c12e') in 0.012164 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
